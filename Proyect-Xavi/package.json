@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "dependencies": {
+    "aoi.js": "^5.0.7"
+  }
+}
